@@ -13,7 +13,10 @@
   * [License](#License)
   * [Contact Information](#ContactInfo)
   ## Description
-  This app is a coding quiz! It will run a timed quiz with mutliple choice questions, and display a scoreboard at the end of the quiz. 
+  This app is a coding quiz! It will run a timed quiz with mutliple choice questions, and display a scoreboard at the end of the quiz.
+  Link to deployed application: https://ethikry.github.io/Scoreboard-c4/ 
+![Screenshot_20230226_050746](https://user-images.githubusercontent.com/113566829/221409595-d803ec83-52c9-48ec-b2f7-b2074f724d46.png)
+
   ## Installation
   You can install this by cloning the repo and installing the required packages.
   ## Usage
