@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 # Scoreboard-c4
 
   
