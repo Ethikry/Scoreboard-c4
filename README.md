@@ -1,7 +1,7 @@
 # Scoreboard-c4
 
   
-  ![License Badge](https://img.shields.io/badge/license-undefined-blue.svg)
+  ![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)
   
 
   ## Table of Contents 
@@ -26,9 +26,6 @@
   
   
   ![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)
-  
-  
-  ![License Link](https://opensource.org/licenses/MIT)
   
   © 2023 Ethan Gayton
   
