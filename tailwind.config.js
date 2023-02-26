@@ -1,8 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./04-Challenge/index.html"],
+  content: ["index.html"],
   theme: {
     extend: {},
   },
   plugins: [],
-}
+};
